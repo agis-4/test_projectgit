@@ -52,7 +52,7 @@
                   <div class="card-icon">
                     <i class="material-icons">phone</i>
                   </div>
-                  <p class="card-category">Number Contact</p>
+                  <p class="card-category">Number Contact Me</p>
                   <h4 class="card-title">082117905098</h4>
                 </div>
                 <div class="card-footer">
