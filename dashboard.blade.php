@@ -124,7 +124,7 @@
                  <table class="table table-striped color table" id="table_id2">
                     <thead class="text-rose">
                       <tr>
-                         <th>ID</th>
+                         <th>Identity</th>
                          <th>Nama Lengkap</th>
                          <th>Alamat Lengkap</th>
                          <th>Nominal</th>
